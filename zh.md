@@ -77,8 +77,8 @@
 
 # 其他
 
-- [一个网站，从零到一]()
-- [meteor项目部署](https://github.com/wwlweihai/resume/blob/master/meteor-deploy-zh.md)
+- [一个网站，从零到一](https://github.com/wwlweihai/resume/blob/master/zh/zero2one.md)
+- [meteor项目部署](https://github.com/wwlweihai/resume/blob/master/zh/meteor-deploy.md)
 
 # 小结
 
